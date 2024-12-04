@@ -1,5 +1,10 @@
 <h1> **Role-Based Access Control (RBAC) and Authentication, Authorization Project**</h1>
 
+Here is the images of Input and Output of API Testing
+
+https://docs.google.com/document/d/1CSVaKc44I6dr2rF_t1SJ3YqJiFnq24dkRfAkntFwggE/edit?usp=sharing
+
+
 **Overview**
 The above project implements Role-Based Access Control (RBAC) along with Authentication and Authorization mechanisms. It ensures that only authorized users with specific roles can access certain routes or perform specific actions, which is a critical aspect of application security.I have tried my best to deliver results as expected. 
 
@@ -92,7 +97,7 @@ The server will start on http://localhost:4000.
 
     On Failure: { "message": "Username already exists" }"
 
-3. *GET /admin*
+3. *GET /admin/getUser*
 
     Description: Accesses an admin-only route.
 
