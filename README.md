@@ -57,8 +57,8 @@ MongoDB running (used locally)
 
    To start the server, run:
 
-   *npm start (frontend)*
-   *npm run dev (backend)*
+   *npm run dev (frontend)*
+   *node server.js  (backend)*
 
 The server will start on http://localhost:4000.
 
